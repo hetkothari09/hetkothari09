@@ -126,6 +126,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hetkothari09/hetkothari09/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/hetkothari09/hetkothari09/output/snake.svg" alt="Snake animation" />
 
 ###
