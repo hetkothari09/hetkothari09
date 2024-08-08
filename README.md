@@ -1,9 +1,8 @@
 ## 💫 About Me:
 <img align="right" height="150" src="https://img.freepik.com/vector-premium/hombre-jugador_961307-25031.jpg?w=740"  /><br>
-Hi 👋! My name is Het Kothari. <br>
-I'm a Research and Data Analyst. <br>
-
-
+<h4> Hi 👋! My name is Het Kothari. <br>
+I'm a Research and Data Analyst. <br> <br>
+<h4>
 
 
 ## 🌐 Socials:
