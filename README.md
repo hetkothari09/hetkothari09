@@ -6,10 +6,10 @@
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=25&pause=1000&color=6CC644&center=true&vCenter=true&random=false&width=500&lines=Building+the+future+with+code+and+data" alt="Typing SVG" /></a>
 
-  <!-- 3D Banner -->
+  <!-- 3D Banner
   <a href="https://github.com/hetkothari09"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </div>
-
+ -->
 <div align="center">
   <!-- 3D Animated Model - New 3D model replacing VS Code logo -->
   <img src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
