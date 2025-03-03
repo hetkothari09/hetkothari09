@@ -2,7 +2,7 @@
   
   # 👋 HET KOTHARI 💻
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F7CA&center=true&vCenter=true&width=500&lines=RESEARCH+AND+DATA+ANALYST;FULL+STACK+DEVELOPER;DATA+VISUALIZATION+ENTHUSIAST" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F7CA&center=true&vCenter=true&width=500&lines=RESEARCH+AND+DATA+ANALYST;DATA+VISUALIZATION+ENTHUSIAST;CODE+CRAFTSMAN" alt="Typing SVG" />
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=25&pause=1000&color=6CC644&center=true&vCenter=true&random=false&width=500&lines=Building+the+future+with+code+and+data" alt="Typing SVG" /></a>
 
@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <!-- 3D Animated Model -->
+  <!-- 3D Animated Model - Replaced VS Code logo with a 3D developer model -->
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnN1bWNuZ2plM3poem5lc2g2eTZocWJ1YnBqMGl6OHpjZzlveWRtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" width="200"/>
 </div>
 
@@ -19,7 +19,7 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRjZ292NDZ1dXFrbWppZGplZHpvY200cGI3bHM2MHhhY2UzbnlieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-I'm a Research and Data Analyst with expertise in full-stack development, data visualization, and machine learning. Passionate about transforming complex data into actionable insights and creating seamless user experiences.
+I'm a Research and Data Analyst with expertise in technology development, data visualization, and machine learning. Passionate about transforming complex data into actionable insights and creating seamless user experiences.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/het-kothari"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -41,7 +41,7 @@ I'm a Research and Data Analyst with expertise in full-stack development, data v
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hetkothari09&theme=neon&hide_border=true&border_radius=10&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hetkothari09&theme=neon&hide_border=true&border_radius=10&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -90,9 +90,10 @@ I'm a Research and Data Analyst with expertise in full-stack development, data v
   </table>
 </div>
 
-<!-- Full Skills List with Animated Icons -->
+<!-- Fixed Expandable Skills Section -->
 <details>
   <summary><h3>🔥 Expand to see all skills</h3></summary>
+  
   <div align="center">
     <h4>💻 Programming Languages</h4>
     <p>
