@@ -2,7 +2,7 @@
   
   # 👋 HET KOTHARI 💻
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00F7CA&center=true&vCenter=true&width=600&lines=RESEARCH+AND+DATA+ANALYST" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00F7CA&center=true&vCenter=true&width=600&lines=DATA+ANALYST" alt="Typing SVG" />
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=25&pause=1000&color=6CC644&center=true&vCenter=true&random=false&width=500&lines=Building+the+future+with+code+and+data" alt="Typing SVG" /></a>
 
