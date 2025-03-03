@@ -184,10 +184,12 @@ I'm a Research and Data Analyst with expertise in data visualization and machine
   <img src="https://profile-counter.glitch.me/hetkothari09/count.svg" alt="Visitor Count" />
   
   <h3>Show some ❤️ by starring my repositories!</h3>
-  
+
+  <!--
   <a href="https://www.buymeacoffee.com/hetkothari">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
+-->
 </div>
 
 <div align="center">
