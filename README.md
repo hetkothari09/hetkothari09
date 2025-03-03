@@ -2,7 +2,7 @@
   
   # 👋 HET KOTHARI 💻
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F7CA&center=true&vCenter=true&width=500&lines=RESEARCH+AND+DATA+ANALYST;DATA+VISUALIZATION+ENTHUSIAST;CODE+CRAFTSMAN" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00F7CA&center=true&vCenter=true&width=600&lines=RESEARCH+AND+DATA+ANALYST" alt="Typing SVG" />
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=25&pause=1000&color=6CC644&center=true&vCenter=true&random=false&width=500&lines=Building+the+future+with+code+and+data" alt="Typing SVG" /></a>
 
@@ -11,15 +11,15 @@
 </div>
 
 <div align="center">
-  <!-- 3D Animated Model - Replaced VS Code logo with a 3D developer model -->
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnN1bWNuZ2plM3poem5lc2g2eTZocWJ1YnBqMGl6OHpjZzlveWRtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" width="200"/>
+  <!-- 3D Animated Model - New 3D model replacing VS Code logo -->
+  <img src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
 </div>
 
 ## 🚀 About Me
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRjZ292NDZ1dXFrbWppZGplZHpvY200cGI3bHM2MHhhY2UzbnlieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-I'm a Research and Data Analyst with expertise in technology development, data visualization, and machine learning. Passionate about transforming complex data into actionable insights and creating seamless user experiences.
+I'm a Research and Data Analyst with expertise in data visualization and machine learning. Passionate about transforming complex data into actionable insights and creating seamless user experiences.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/het-kothari"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -41,6 +41,7 @@ I'm a Research and Data Analyst with expertise in technology development, data v
 </div>
 
 <div align="center">
+  <!-- Fixed GitHub streak URL -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hetkothari09&theme=neon&hide_border=true&border_radius=10&background=0D1117" alt="GitHub Streak" />
 </div>
 
@@ -59,9 +60,9 @@ I'm a Research and Data Analyst with expertise in technology development, data v
 
 ## ⚡ Tech Universe
 
-<!-- 3D Skills Animation -->
+<!-- 3D Skills Animation - New 3D model for tech section -->
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlramtvenBtaDQzemd0ZnZvMXRlcHltYnlwNnJiNWEwbHk1bGt4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="200"/>
+  <img src="https://media3.giphy.com/media/l1J9RcNMJKa4TkXHq/giphy.gif" width="200"/>
 </div>
 
 <!-- Tech Stack in Hexagonal Grid Style -->
@@ -90,10 +91,10 @@ I'm a Research and Data Analyst with expertise in technology development, data v
   </table>
 </div>
 
-<!-- Fixed Expandable Skills Section -->
+<!-- Fixed Expandable Skills Section with proper markdown -->
 <details>
   <summary><h3>🔥 Expand to see all skills</h3></summary>
-  
+
   <div align="center">
     <h4>💻 Programming Languages</h4>
     <p>
@@ -106,7 +107,9 @@ I'm a Research and Data Analyst with expertise in technology development, data v
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white" />
     </p>
+  </div>
 
+  <div align="center">
     <h4>🧰 Frameworks & Libraries</h4>
     <p>
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" />
@@ -116,11 +119,10 @@ I'm a Research and Data Analyst with expertise in technology development, data v
       <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white" />
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white" />
-      <img src="https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black" />
-      <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white" />
-      <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white" />
     </p>
+  </div>
 
+  <div align="center">
     <h4>🧠 AI & Data Science</h4>
     <p>
       <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white" />
@@ -130,38 +132,15 @@ I'm a Research and Data Analyst with expertise in technology development, data v
       <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white" />
       <img src="https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black" />
     </p>
+  </div>
 
+  <div align="center">
     <h4>💾 Databases</h4>
     <p>
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" />
       <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white" />
-    </p>
-
-    <h4>☁️ Hosting/SaaS</h4>
-    <p>
-      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" />
-      <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7" />
-    </p>
-
-    <h4>🎨 Design</h4>
-    <p>
-      <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white" />
-      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white" />
-    </p>
-
-    <h4>🔧 Tools & Others</h4>
-    <p>
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white" />
-      <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi" />
-      <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black" />
     </p>
   </div>
 </details>
