@@ -60,9 +60,9 @@ I'm a Research and Data Analyst with expertise in data visualization and machine
 
 ## ⚡ Tech Universe
 
-<!-- 3D Skills Animation - New 3D model for tech section -->
+<!-- 3D Skills Animation -->
 <div align="center">
-  <img src="https://media3.giphy.com/media/l1J9RcNMJKa4TkXHq/giphy.gif" width="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlramtvenBtaDQzemd0ZnZvMXRlcHltYnlwNnJiNWEwbHk1bGt4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="200"/>
 </div>
 
 <!-- Tech Stack in Hexagonal Grid Style -->
