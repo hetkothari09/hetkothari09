@@ -1,10 +1,126 @@
+<div align="center">
+  
+# 👨‍💻 HET KOTHARI | DATA ALCHEMIST 📊
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=1000&color=00F7CA&center=true&vCenter=true&width=600&lines=DATA+ANALYST;DATA+SCIENTIST;VISUALIZATION+EXPERT" alt="Typing SVG" />
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6CC644&center=true&vCenter=true&random=false&width=600&lines=Transforming+raw+data+into+actionable+intelligence;Creating+tomorrow's+insights+today;Building+the+future+with+data-driven+decisions" alt="Typing SVG" /></a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<table>
+<tr>
+<td width="58%">
+
+## 🧠 Data Maestro
+
+I'm a Research and Data Analyst specializing in transforming complex datasets into strategic insights and visualizations that drive business decisions. With expertise in machine learning, predictive modeling, and data storytelling, I bridge the gap between raw information and actionable intelligence.
+
+### 🔍 Current Focus
+- Machine Learning implementation for predictive analytics
+- Interactive data visualization dashboards
+- Business intelligence solutions
+- Data pipeline automation
+- Advanced statistical analysis
+
+### 📈 Data Philosophy
+> "Data is the new oil, but insight is the engine that drives progress."
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/het-kothari"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/coolstrangerme"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+</td>
+<td width="42%">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRjZ292NDZ1dXFrbWppZGplZHpvY200cGI3bHM2MHhhY2UzbnlieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  
+  <br>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=hetkothari09&theme=radical&no-frame=true&no-bg=false&margin-w=6&column=2&row=2" alt="GitHub Trophies" width="100%" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## 📊 Data Analytics Arsenal
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔬 Data Science Tools
+```python
+tools = {
+    "Analytics": ["Python", "R", "SQL", "Excel"],
+    "Visualization": ["PowerBI", "Tableau", "Plotly", "D3.js"],
+    "Big Data": ["Spark", "Hadoop", "MongoDB", "PostgreSQL"],
+    "ML/AI": ["TensorFlow", "PyTorch", "scikit-learn", "NLTK"],
+    "Statistical": ["Pandas", "NumPy", "SciPy", "Statsmodels"]
+}
+```
+
+</td>
+<td width="50%">
+
+### 🧪 Data Pipeline Workflow
+```mermaid
+graph LR
+    A[Data Collection] --> B[Data Cleaning]
+    B --> C[Exploratory Analysis]
+    C --> D[Feature Engineering]
+    D --> E[Model Development]
+    E --> F[Visualization]
+    F --> G[Insight Delivery]
+    style A fill:#01E6A1,stroke:#013220,color:black
+    style G fill:#01E6A1,stroke:#013220,color:black
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## 📈 Analytics Performance Metrics
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hetkothari09&theme=synthwave&show_icons=true&border_radius=15&hide_border=true&bg_color=0D1117&title_color=00F7CA&icon_color=00F7CA&text_color=FFFFFF" alt="Het's GitHub Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetkothari09&theme=synthwave&hide_border=true&layout=compact&border_radius=15&bg_color=0D1117&title_color=00F7CA&text_color=FFFFFF" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hetkothari09&theme=synthwave&hide_border=true&border_radius=15&background=0D1117&ring=00F7CA&fire=FF5F1F&currStreakLabel=00F7CA" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ## 🔮 Data Technology Multiverse
 
 <details open>
-  <summary><h3>📊 Analytics & Visualization Ecosystem</h3></summary>
+  <summary><h3>📚 Analytics & Visualization Ecosystem</h3></summary>
 
   <h4>📊 Data Analysis & Processing</h4>
-  <p>
+  <p align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -14,7 +130,7 @@
   </p>
   
   <h4>📈 Data Visualization</h4>
-  <p>
+  <p align="center">
     <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
     <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
@@ -24,7 +140,7 @@
   </p>
   
   <h4>🧠 Machine Learning & AI</h4>
-  <p>
+  <p align="center">
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
@@ -34,7 +150,7 @@
   </p>
   
   <h4>🛢️ Data Storage</h4>
-  <p>
+  <p align="center">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -46,9 +162,9 @@
 
 <details>
   <summary><h3>🔧 Development & Deployment Stack</h3></summary>
-
+  
   <h4>🌐 Web Technologies</h4>
-  <p>
+  <p align="center">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -58,7 +174,7 @@
   </p>
   
   <h4>🔙 Backend & APIs</h4>
-  <p>
+  <p align="center">
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
     <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
@@ -68,7 +184,7 @@
   </p>
   
   <h4>☁️ Cloud & DevOps</h4>
-  <p>
+  <p align="center">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -78,7 +194,7 @@
   </p>
   
   <h4>🛠️ Other Tools</h4>
-  <p>
+  <p align="center">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
@@ -88,45 +204,95 @@
   </p>
 </details>
 
-<!-- Now fixing the Data Maestro section -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-## 🧠 Data Maestro
+## 🔬 Featured Data Projects
 
 <table>
 <tr>
-<td width="65%">
-  <p>
-    I'm a Research and Data Analyst specializing in transforming complex datasets into strategic insights and visualizations that drive business decisions. With expertise in machine learning, predictive modeling, and data storytelling, I bridge the gap between raw information and actionable intelligence.
-  </p>
-
-  <h3>🔍 Current Focus</h3>
-  <ul>
-    <li>Machine Learning implementation for predictive analytics</li>
-    <li>Interactive data visualization dashboards</li>
-    <li>Business intelligence solutions</li>
-    <li>Data pipeline automation</li>
-    <li>Advanced statistical analysis</li>
-  </ul>
-
-  <h3>📈 Data Philosophy</h3>
-  <blockquote>
-    "Data is the new oil, but insight is the engine that drives progress."
-  </blockquote>
-
-  <p>
-    <a href="https://www.linkedin.com/in/het-kothari"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://x.com/coolstrangerme"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  </p>
+<td width="50%">
+<h3 align="center">Sales Prediction Engine</h3>
+<div align="center">
+<a href="https://github.com/hetkothari09/project-link" target="_blank"><img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/LIVE-success?style=for-the-badge&logo=googledrive"></a>
+</div>
+<p align="center">
+  <strong>Advanced forecasting using ARIMA and Prophet models to predict retail sales with 96% accuracy.</strong>
+</p>
 </td>
-<td width="35%">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRjZ292NDZ1dXFrbWppZGplZHpvY200cGI3bHM2MHhhY2UzbnlieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+<td width="50%">
+<h3 align="center">Customer Segmentation Dashboard</h3>
+<div align="center">
+<a href="https://github.com/hetkothari09/project-link" target="_blank"><img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/LIVE-success?style=for-the-badge&logo=powerbi"></a>
+</div>
+<p align="center">
+  <strong>Interactive Power BI dashboard revealing key customer segments through K-means clustering.</strong>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">Financial Risk Analyzer</h3>
+<div align="center">
+<a href="https://github.com/hetkothari09/project-link" target="_blank"><img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/LIVE-success?style=for-the-badge&logo=tableau"></a>
+</div>
+<p align="center">
+  <strong>Monte Carlo simulation model for financial risk assessment with Tableau visualization.</strong>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">NLP-Powered Sentiment Analysis</h3>
+<div align="center">
+<a href="https://github.com/hetkothari09/project-link" target="_blank"><img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/DEMO-success?style=for-the-badge&logo=youtube"></a>
+</div>
+<p align="center">
+  <strong>Real-time sentiment analysis of customer reviews using BERT and visualization with D3.js.</strong>
+</p>
 </td>
 </tr>
 </table>
 
-<!-- Trophy Section Fixed -->
 <div align="center">
-  <h3>🏆 Analytics Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=hetkothari09&theme=darkhub&no-frame=true&margin-w=15&column=3" alt="GitHub Trophies" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<!-- Animated GitHub Activity Graph -->
+<div align="center">
+  <h3>📈 Data Contribution Heatmap</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hetkothari09&theme=react-dark&hide_border=true&bg_color=0D1117&line=00F7CA&point=FFFFFF&area=true&area_color=00F7CA" width="100%" alt="Activity Graph">
+</div>
+
+<!-- Animated Snake Grid -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<!-- Data Quote and Visitor Counter -->
+<div align="center">
+  <h3>💭 Data Insight of the Day</h3>
+  <blockquote>
+    "The goal is to turn data into information, and information into insight." - Carly Fiorina
+  </blockquote>
+  
+  <img src="https://profile-counter.glitch.me/hetkothari09/count.svg" alt="Visitor Count" />
+  
+  <h3>⭐ Connect through data. Star my repositories!</h3>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90&animation=fadeIn&fontAlignY=40&fontColor=ffffff" />
 </div>
