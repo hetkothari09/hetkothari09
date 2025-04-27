@@ -58,7 +58,7 @@ I'm a Research and Data Analyst specializing in transforming complex datasets in
 <td width="50%">
 
 ### 🔬 Data Science Tools
-```python
+python
 tools = {
     "Analytics": ["Python", "R", "SQL", "Excel"],
     "Visualization": ["PowerBI", "Tableau", "Plotly", "D3.js"],
@@ -66,13 +66,12 @@ tools = {
     "ML/AI": ["TensorFlow", "PyTorch", "scikit-learn", "NLTK"],
     "Statistical": ["Pandas", "NumPy", "SciPy", "Statsmodels"]
 }
-```
 
 </td>
 <td width="50%">
 
 ### 🧪 Data Pipeline Workflow
-```mermaid
+mermaid
 graph LR
     A[Data Collection] --> B[Data Cleaning]
     B --> C[Exploratory Analysis]
@@ -82,7 +81,7 @@ graph LR
     F --> G[Insight Delivery]
     style A fill:#01E6A1,stroke:#013220,color:black
     style G fill:#01E6A1,stroke:#013220,color:black
-```
+
 
 </td>
 </tr>
