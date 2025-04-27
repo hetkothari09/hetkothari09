@@ -1,10 +1,9 @@
 <div align="center">
   
-# 👨‍💻 HET KOTHARI | DATA ALCHEMIST 📊
+# 👨‍💻 HET KOTHARI 📊
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=1000&color=00F7CA&center=true&vCenter=true&width=600&lines=DATA+ANALYST;DATA+SCIENTIST;VISUALIZATION+EXPERT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=1000&color=00F7CA&center=true&vCenter=true&width=600&lines=DATA+ANALYST" alt="Typing SVG" />
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6CC644&center=true&vCenter=true&random=false&width=600&lines=Transforming+raw+data+into+actionable+intelligence;Creating+tomorrow's+insights+today;Building+the+future+with+data-driven+decisions" alt="Typing SVG" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
