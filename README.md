@@ -51,42 +51,6 @@ I'm a Research and Data Analyst specializing in transforming complex datasets in
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 📊 Data Analytics Arsenal
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔬 Data Science Tools
-python
-tools = {
-    "Analytics": ["Python", "R", "SQL", "Excel"],
-    "Visualization": ["PowerBI", "Tableau", "Plotly", "D3.js"],
-    "Big Data": ["Spark", "Hadoop", "MongoDB", "PostgreSQL"],
-    "ML/AI": ["TensorFlow", "PyTorch", "scikit-learn", "NLTK"],
-    "Statistical": ["Pandas", "NumPy", "SciPy", "Statsmodels"]
-}
-
-</td>
-<td width="50%">
-
-### 🧪 Data Pipeline Workflow
-mermaid
-graph LR
-    A[Data Collection] --> B[Data Cleaning]
-    B --> C[Exploratory Analysis]
-    C --> D[Feature Engineering]
-    D --> E[Model Development]
-    E --> F[Visualization]
-    F --> G[Insight Delivery]
-    style A fill:#01E6A1,stroke:#013220,color:black
-    style G fill:#01E6A1,stroke:#013220,color:black
-
-
-</td>
-</tr>
-</table>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
