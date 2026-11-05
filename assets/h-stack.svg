@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" role="img" aria-label="Tech stack">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899" stop-opacity="0"/></linearGradient>
+<linearGradient id="pulse" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect width="1200" height="76" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)">
+<rect width="1200" height="76" fill="#06060F"/>
+<circle cx="80" cy="0" r="90" fill="#8B5CF6" opacity=".18"/>
+<text x="28" y="46" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="15" fill="#22D3EE" letter-spacing="2">02 /</text>
+<text x="88" y="48" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="800" fill="#E6EDF3">Tech stack</text>
+<rect x="0" y="73" width="1200" height="3" fill="url(#l)" opacity=".8"/>
+<rect x="0" y="72" width="160" height="4" rx="2" fill="url(#pulse)"><animate attributeName="x" values="-160;1200" dur="4.5s" begin="1.2s" repeatCount="indefinite"/></rect>
+<rect x=".5" y=".5" width="1199" height="75" rx="17.5" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+</g></svg>
