@@ -169,19 +169,6 @@ An AI assistant for HR workflows.
 
 </div>
 
-<img src="assets/h-stats.svg" width="100%" alt="05 / GitHub stats" />
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hetkothari09&show_icons=true&hide_border=true&border_radius=18&bg_color=06060F&title_color=22D3EE&icon_color=8B5CF6&text_color=C9D1D9&ring_color=22D3EE&include_all_commits=true&count_private=true&rank_icon=github" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetkothari09&layout=compact&hide_border=true&border_radius=18&bg_color=06060F&title_color=22D3EE&text_color=C9D1D9&langs_count=8" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hetkothari09&hide_border=true&border_radius=18&background=06060F&ring=8B5CF6&fire=EC4899&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="70%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hetkothari09&bg_color=06060F&color=C9D1D9&line=8B5CF6&point=22D3EE&area=true&area_color=8B5CF6&hide_border=true&radius=18&custom_title=Contributions%20over%20the%20last%20month" width="100%" />
-
-</div>
-
 <img src="assets/h-connect.svg" width="100%" alt="06 / Let's connect" />
 
 <div align="center">
