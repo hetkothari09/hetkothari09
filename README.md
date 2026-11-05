@@ -169,6 +169,12 @@ An AI assistant for HR workflows.
 
 </div>
 
+<img src="assets/h-stats.svg" width="100%" alt="05 / GitHub stats" />
+
+<div align="center">
+<img src="assets/stats.svg" width="100%" alt="GitHub stats: contributions, commits, streaks, repositories, pull requests and top languages" />
+</div>
+
 <img src="assets/h-connect.svg" width="100%" alt="06 / Let's connect" />
 
 <div align="center">

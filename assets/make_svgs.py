@@ -407,7 +407,7 @@ def footer():
 if __name__ == '__main__':
     print('hero', hero())
     print('cube', cube())
-    for i, (n, l) in enumerate([('about', 'About me'), ('stack', 'Tech stack'), ('work', 'Featured work'), ('activity', 'Activity in 3D'), ('connect', "Let's connect")], 1):
+    for i, (n, l) in enumerate([('about', 'About me'), ('stack', 'Tech stack'), ('work', 'Featured work'), ('activity', 'Activity in 3D'), ('stats', 'GitHub stats'), ('connect', "Let's connect")], 1):
         heading(n, l, i)
     footer()
     print('ok')

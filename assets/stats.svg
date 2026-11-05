@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="GitHub stats for hetkothari09">
+<defs>
+<clipPath id="frame"><rect width="1200" height="360" rx="28"/></clipPath>
+<linearGradient id="spark" x1="0" x2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset=".6" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+<linearGradient id="fill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".45"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient>
+<filter id="blur40"><feGaussianBlur stdDeviation="40"/></filter>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="360" fill="#06060F"/>
+<g filter="url(#blur40)" opacity=".45"><circle cx="180" cy="60" r="140" fill="#8B5CF6"/><circle cx="1040" cy="320" r="140" fill="#0EA5E9"/></g>
+<text x="40" y="58" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" letter-spacing="3" fill="#22D3EE">&gt; GITHUB.STATS(&quot;hetkothari09&quot;)</text>
+<text x="760" y="58" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" letter-spacing="3" fill="#22D3EE">&gt; TOP LANGUAGES</text>
+<g transform="translate(40,92)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.00s" dur=".6s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="40,106" to="40,92" begin="0.00s" dur=".6s" fill="freeze"/>
+<rect width="160" height="104" rx="16" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/>
+<rect x="16" y="16" width="22" height="3" rx="1.5" fill="#22D3EE"/>
+<text x="16" y="58" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="800" fill="#E6EDF3">294</text>
+<text x="16" y="80" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#C9D1D9">Contributions</text>
+<text x="16" y="95" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="10" fill="#8B949E">last 12 months</text>
+</g><g transform="translate(212,92)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.08s" dur=".6s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="212,106" to="212,92" begin="0.08s" dur=".6s" fill="freeze"/>
+<rect width="160" height="104" rx="16" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/>
+<rect x="16" y="16" width="22" height="3" rx="1.5" fill="#8B5CF6"/>
+<text x="16" y="58" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="800" fill="#E6EDF3">273</text>
+<text x="16" y="80" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#C9D1D9">Commits</text>
+<text x="16" y="95" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="10" fill="#8B949E">last 12 months</text>
+</g><g transform="translate(384,92)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.16s" dur=".6s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="384,106" to="384,92" begin="0.16s" dur=".6s" fill="freeze"/>
+<rect width="160" height="104" rx="16" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/>
+<rect x="16" y="16" width="22" height="3" rx="1.5" fill="#F59E0B"/>
+<text x="16" y="58" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="800" fill="#E6EDF3">1</text>
+<text x="16" y="80" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#C9D1D9">Current streak</text>
+<text x="16" y="95" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="10" fill="#8B949E">days</text>
+</g><g transform="translate(556,92)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.24s" dur=".6s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="556,106" to="556,92" begin="0.24s" dur=".6s" fill="freeze"/>
+<rect width="160" height="104" rx="16" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/>
+<rect x="16" y="16" width="22" height="3" rx="1.5" fill="#EC4899"/>
+<text x="16" y="58" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="800" fill="#E6EDF3">6</text>
+<text x="16" y="80" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#C9D1D9">Longest streak</text>
+<text x="16" y="95" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="10" fill="#8B949E">days</text>
+</g><g transform="translate(40,210)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.32s" dur=".6s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="40,224" to="40,210" begin="0.32s" dur=".6s" fill="freeze"/>
+<rect width="160" height="104" rx="16" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/>
+<rect x="16" y="16" width="22" height="3" rx="1.5" fill="#22D3EE"/>
+<text x="16" y="58" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="800" fill="#E6EDF3">65</text>
+<text x="16" y="80" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#C9D1D9">Repositories</text>
+<text x="16" y="95" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="10" fill="#8B949E">public, own</text>
+</g><g transform="translate(212,210)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.40s" dur=".6s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="212,224" to="212,210" begin="0.40s" dur=".6s" fill="freeze"/>
+<rect width="160" height="104" rx="16" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/>
+<rect x="16" y="16" width="22" height="3" rx="1.5" fill="#8B5CF6"/>
+<text x="16" y="58" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="800" fill="#E6EDF3">14</text>
+<text x="16" y="80" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#C9D1D9">Pull requests</text>
+<text x="16" y="95" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="10" fill="#8B949E">all time</text>
+</g><g transform="translate(384,210)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.48s" dur=".6s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="384,224" to="384,210" begin="0.48s" dur=".6s" fill="freeze"/>
+<rect width="160" height="104" rx="16" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/>
+<rect x="16" y="16" width="22" height="3" rx="1.5" fill="#F59E0B"/>
+<text x="16" y="58" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="800" fill="#E6EDF3">37</text>
+<text x="16" y="80" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#C9D1D9">Active days</text>
+<text x="16" y="95" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="10" fill="#8B949E">last 12 months</text>
+</g><g transform="translate(556,210)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.56s" dur=".6s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="556,224" to="556,210" begin="0.56s" dur=".6s" fill="freeze"/>
+<rect width="160" height="104" rx="16" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".09"/>
+<rect x="16" y="16" width="22" height="3" rx="1.5" fill="#EC4899"/>
+<text x="16" y="58" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="800" fill="#E6EDF3">17</text>
+<text x="16" y="80" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#C9D1D9">Languages</text>
+<text x="16" y="95" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="10" fill="#8B949E">written in</text>
+</g>
+<rect x="760" y="96" width="400" height="12" rx="6" fill="#ffffff" fill-opacity=".06"/>
+<rect x="760.0" y="96" width="0" height="12" fill="#3178c6"><animate attributeName="width" from="0" to="268.6" begin="0.30s" dur=".9s" fill="freeze"/></rect><rect x="1028.6" y="96" width="0" height="12" fill="#f1e05a"><animate attributeName="width" from="0" to="39.3" begin="0.40s" dur=".9s" fill="freeze"/></rect><rect x="1067.8" y="96" width="0" height="12" fill="#3572A5"><animate attributeName="width" from="0" to="30.0" begin="0.50s" dur=".9s" fill="freeze"/></rect><rect x="1097.8" y="96" width="0" height="12" fill="#e34c26"><animate attributeName="width" from="0" to="21.8" begin="0.60s" dur=".9s" fill="freeze"/></rect><rect x="1119.6" y="96" width="0" height="12" fill="#DA5B0B"><animate attributeName="width" from="0" to="13.3" begin="0.70s" dur=".9s" fill="freeze"/></rect><rect x="1132.9" y="96" width="0" height="12" fill="#663399"><animate attributeName="width" from="0" to="7.9" begin="0.80s" dur=".9s" fill="freeze"/></rect>
+<circle cx="766" cy="134" r="5" fill="#3178c6"/><text x="778" y="138" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#C9D1D9">TypeScript<tspan fill="#8B949E" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11.5">  67.1%</tspan></text><circle cx="966" cy="134" r="5" fill="#f1e05a"/><text x="978" y="138" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#C9D1D9">JavaScript<tspan fill="#8B949E" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11.5">  9.8%</tspan></text><circle cx="766" cy="160" r="5" fill="#3572A5"/><text x="778" y="164" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#C9D1D9">Python<tspan fill="#8B949E" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11.5">  7.5%</tspan></text><circle cx="966" cy="160" r="5" fill="#e34c26"/><text x="978" y="164" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#C9D1D9">HTML<tspan fill="#8B949E" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11.5">  5.5%</tspan></text><circle cx="766" cy="186" r="5" fill="#DA5B0B"/><text x="778" y="190" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#C9D1D9">Jupyter Notebook<tspan fill="#8B949E" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11.5">  3.3%</tspan></text><circle cx="966" cy="186" r="5" fill="#663399"/><text x="978" y="190" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#C9D1D9">CSS<tspan fill="#8B949E" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11.5">  2.0%</tspan></text>
+<text x="760" y="230" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11" letter-spacing="2" fill="#8B949E">CONTRIBUTIONS PER WEEK · 52 WEEKS</text>
+<path d="M760.0 314.0 L767.8 314.0 L775.7 314.0 L783.5 314.0 L791.4 314.0 L799.2 299.7 L807.1 314.0 L814.9 314.0 L822.7 314.0 L830.6 314.0 L838.4 314.0 L846.3 314.0 L854.1 308.3 L862.0 264.0 L869.8 274.0 L877.6 255.4 L885.5 314.0 L893.3 312.6 L901.2 314.0 L909.0 314.0 L916.9 312.6 L924.7 286.9 L932.5 258.3 L940.4 244.0 L948.2 314.0 L956.1 269.7 L963.9 309.7 L971.8 314.0 L979.6 308.3 L987.5 312.6 L995.3 314.0 L1003.1 314.0 L1011.0 314.0 L1018.8 281.1 L1026.7 308.3 L1034.5 314.0 L1042.4 314.0 L1050.2 314.0 L1058.0 314.0 L1065.9 314.0 L1073.7 314.0 L1081.6 314.0 L1089.4 314.0 L1097.3 314.0 L1105.1 314.0 L1112.9 314.0 L1120.8 314.0 L1128.6 314.0 L1136.5 314.0 L1144.3 314.0 L1152.2 314.0 L1160.0 312.6 L1160 314 L760 314 Z" fill="url(#fill)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="1s" fill="freeze"/></path>
+<path d="M760.0 314.0 L767.8 314.0 L775.7 314.0 L783.5 314.0 L791.4 314.0 L799.2 299.7 L807.1 314.0 L814.9 314.0 L822.7 314.0 L830.6 314.0 L838.4 314.0 L846.3 314.0 L854.1 308.3 L862.0 264.0 L869.8 274.0 L877.6 255.4 L885.5 314.0 L893.3 312.6 L901.2 314.0 L909.0 314.0 L916.9 312.6 L924.7 286.9 L932.5 258.3 L940.4 244.0 L948.2 314.0 L956.1 269.7 L963.9 309.7 L971.8 314.0 L979.6 308.3 L987.5 312.6 L995.3 314.0 L1003.1 314.0 L1011.0 314.0 L1018.8 281.1 L1026.7 308.3 L1034.5 314.0 L1042.4 314.0 L1050.2 314.0 L1058.0 314.0 L1065.9 314.0 L1073.7 314.0 L1081.6 314.0 L1089.4 314.0 L1097.3 314.0 L1105.1 314.0 L1112.9 314.0 L1120.8 314.0 L1128.6 314.0 L1136.5 314.0 L1144.3 314.0 L1152.2 314.0 L1160.0 312.6" fill="none" stroke="url(#spark)" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="759" stroke-dashoffset="759">
+<animate attributeName="stroke-dashoffset" from="759" to="0" begin=".4s" dur="2.2s" fill="freeze"/></path>
+<text x="1160" y="342" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="10" fill="#6E7681">updated 2026-11-05</text>
+<rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+</g></svg>
